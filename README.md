@@ -1,6 +1,14 @@
 # FinalExam_OracleDB_Setup
 FinalExam_OracleDB_Setup (Oracle Form Developer) 
 
+If your PATH environment variable is longer than ~1024 characters, you can run into problems — especially with older Oracle tools like Forms Developer (and also some older Java-based apps) because:
+
+Old Windows APIs had a MAX_PATH limit of 1024 or 2048 characters.
+
+Some legacy installers/tools still assume that limit.
+
+When PATH is too long, parts of it can be truncated or ignored, and required bin folders may not be found.
+
 
 <img width="855" height="448" alt="image" src="https://github.com/user-attachments/assets/6a602255-bbd3-48a2-b7d9-0542a70629ca" />
 
