@@ -9,6 +9,7 @@ Some legacy installers/tools still assume that limit.
 
 When PATH is too long, parts of it can be truncated or ignored, and required bin folders may not be found.
 
+LIVE TEST SOURCE COED https://livesql.oracle.com/next/
 
 <img width="855" height="448" alt="image" src="https://github.com/user-attachments/assets/6a602255-bbd3-48a2-b7d9-0542a70629ca" />
 
