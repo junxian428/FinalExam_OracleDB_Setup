@@ -19,3 +19,6 @@ When PATH is too long, parts of it can be truncated or ignored, and required bin
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/d102dae9-7f8c-4fd8-bf16-04c3664b47b7" />
 
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/c5cedd73-426c-446d-858d-575a31fc9d47" />
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f20e0529-09ca-4ea8-ad20-a8a701279a37" />
+
